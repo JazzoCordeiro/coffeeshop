@@ -463,7 +463,7 @@ iframe {
     }
 
     .review .box-container .box p {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
 
     .review .box-container .box h3 {
@@ -476,6 +476,6 @@ iframe {
     }
 
     .about-me {
-        font-size: 2rem;
+        font-size: 3rem;
     }
 }
