@@ -214,7 +214,7 @@ section {
 }
 
 .review .box-container .box p {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: #fff;
     padding: 2rem 0;
     line-height: 1.8;
@@ -290,13 +290,13 @@ iframe {
 
     .navbar {
         flex-direction: row;
-        align-items: left;
+        align-items: center;
         justify-content: center;
         gap: 1rem;
     }
 
     .navbar a {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
         margin: 0;
     }
 
@@ -314,7 +314,7 @@ iframe {
     }
 
     .content p {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .about .row {
@@ -359,11 +359,11 @@ iframe {
     }
 
     .review .box-container .box p {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
     }
 
     .review .box-container .box h3 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .footer .share img {
@@ -372,7 +372,7 @@ iframe {
     }
 
     .about-me {
-        font-size: 1.5rem;
+        font-size: 2.3rem;
     }
 }
 
@@ -400,7 +400,7 @@ iframe {
     }
 
     .navbar a {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
         margin: 0;
     }
 
@@ -418,7 +418,7 @@ iframe {
     }
 
     .content p {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
     }
 
     .about .row {
@@ -439,7 +439,7 @@ iframe {
     }
 
     .about .row .content p {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .box-container {
@@ -451,7 +451,7 @@ iframe {
     }
 
     .menu .box-container .box h3 {
-        font-size: 1.5rem;
+        font-size: 1.8rem;
     }
 
     .menu .box-container .box .price {
@@ -463,11 +463,11 @@ iframe {
     }
 
     .review .box-container .box p {
-        font-size: 1rem;
+        font-size: 1.8rem;
     }
 
     .review .box-container .box h3 {
-        font-size: 1.2rem;
+        font-size: 1.8rem;
     }
 
     .footer .share img {
@@ -476,6 +476,6 @@ iframe {
     }
 
     .about-me {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 }
