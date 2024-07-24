@@ -3,7 +3,7 @@
     --black: #13131a;
     --bg: #010103;
     --border: 0.1rem solid rgba(255, 255, 255, 0.3);
-    font-size: 8px;
+    font-size: 10px;
 }
 
 * {
@@ -281,8 +281,7 @@ iframe {
 /* Responsivo para telas menores que 960px */
 @media (max-width: 960px) {
     :root {
-        font-size: 7px;
-        /* Ajuste o tamanho da fonte */
+        font-size: 10px;
     }
 
     .header {
@@ -298,9 +297,7 @@ iframe {
 
     .navbar a {
         font-size: 1.5rem;
-        /* Reduz o tamanho da fonte dos links */
         margin: 0;
-        /* Remove margens laterais */
     }
 
     .icons img {
@@ -310,17 +307,14 @@ iframe {
 
     .home-container section {
         min-height: 80vh;
-        /* Ajusta a altura mínima para telas menores */
     }
 
     .content h3 {
         font-size: 4rem;
-        /* Reduz o tamanho do título */
     }
 
     .content p {
         font-size: 1.5rem;
-        /* Reduz o tamanho do texto */
     }
 
     .about .row {
@@ -385,7 +379,7 @@ iframe {
 /* Responsivo para telas menores que 480px*/
 @media (max-width: 480px) {
     :root {
-        font-size: 7px;
+        font-size: 10px;
     }
 
     .header {
